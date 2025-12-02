@@ -29,36 +29,44 @@ For each topic I have given a few resources you can go through each and study fr
 
 ## 3. NumPy
 
-- 📚 [CampusX playlist](https://youtube.com/playlist?list=PLKnIA16_Rmvb-ToL3RQ_bwxG4_ND-0-DT&si=CXbmmvtvL_sKxIyi)  
+- [CampusX playlist](https://youtube.com/playlist?list=PLKnIA16_Rmvb-ToL3RQ_bwxG4_ND-0-DT&si=CXbmmvtvL_sKxIyi)  
   **OR**  
-- 🎥 [Brocode](https://youtu.be/VXU4LSAQDSc?si=Lst2LCzI4XTq5i_R)  
+- [Brocode](https://youtu.be/VXU4LSAQDSc?si=Lst2LCzI4XTq5i_R)  
   **OR**  
-- 🎥 [CodeWithHarry](https://youtu.be/Rbh1rieb3zc?si=dSYwlPPk9DzEgmrC)  
+- [CodeWithHarry](https://youtu.be/Rbh1rieb3zc?si=dSYwlPPk9DzEgmrC)  
   **OR**  
-- 📘 [NumPy for Beginners (Official Docs)](https://numpy.org/doc/stable/user/absolute_beginners.html)
+- [NumPy for Beginners (Official Docs)](https://numpy.org/doc/stable/user/absolute_beginners.html)
 
 ---
 
 ## 4. Pandas
 
-- 🎥 [Pandas Crash Course - Intellipaat](https://youtu.be/vtgDGrUiUKk?si=_Lc5_23VDIG7T9Nk)  
+- [Pandas Crash Course - Intellipaat](https://youtu.be/vtgDGrUiUKk?si=_Lc5_23VDIG7T9Nk)  
   **OR**  
-- 📚 [CampusX playlist](https://youtube.com/playlist?list=PLKnIA16_RmvbR85fgbfVRKOiMokUKVupy&si=IDKKXBYSNMP7WXYn)
+- [CampusX playlist](https://youtube.com/playlist?list=PLKnIA16_RmvbR85fgbfVRKOiMokUKVupy&si=IDKKXBYSNMP7WXYn)
 
 ---
 
 ## 5. Matplotlib
 
-- 🎥 [FreeCodeCamp](https://youtu.be/3Xc3CA655Y4?si=EEZqzNfYGgrDT76e)  
+- [FreeCodeCamp](https://youtu.be/3Xc3CA655Y4?si=EEZqzNfYGgrDT76e)  
   **OR**  
-- 🎥 [Intellipaat](https://youtu.be/xXibS9832FM?si=Ogz2nCvLuZdr9Pa7)
+- [Intellipaat](https://youtu.be/xXibS9832FM?si=Ogz2nCvLuZdr9Pa7)
 
 ---
 
-## 6. Seaborn
+## 5.2. Seaborn (Do either Matplotlib or Seaborn - Matplotlib is preffered)
 
-- 📚 [CampusX playlist](https://youtube.com/playlist?list=PLKnIA16_RmvbB1bFGjvS6a8T0mnqawejo&si=J1IkUw26JXqADjyV)  
+- [CampusX playlist](https://youtube.com/playlist?list=PLKnIA16_RmvbB1bFGjvS6a8T0mnqawejo&si=J1IkUw26JXqADjyV)  
   **OR**  
-- 🎥 [Seaborn Tutorial – Derek Banas](https://youtu.be/6GUZXDef2U0?si=uzmvKfMeNfMypjVB)  
+- [Seaborn Tutorial – Derek Banas](https://youtu.be/6GUZXDef2U0?si=uzmvKfMeNfMypjVB)  
   **OR**  
-- 🎥 [Seaborn Tutorial – Intellipath](https://youtu.be/39cge_JhVjI?si=_6yrwDVbmqOPwRln)
+- [Seaborn Tutorial – Intellipath](https://youtu.be/39cge_JhVjI?si=_6yrwDVbmqOPwRln)
+
+## 6. Exploratory Data Analysis (EDA)
+
+- [Mark Keith](https://youtube.com/playlist?list=PLe9UEU4oeAuV7RtCbL76hca5ELO_IELk4&si=jJVi3qHdhp5pNVsQ)
+  **OR**  
+- [Binary Study](https://youtu.be/4P4UxXK7WE8?si=PUT1kMqVp-kCX59u)
+  **OR**  
+- [Seaborn Tutorial – Intellipath](https://youtu.be/39cge_JhVjI?si=_6yrwDVbmqOPwRln)
