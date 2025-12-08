@@ -47,7 +47,9 @@ For each topic I have given a few resources you can go through each and study fr
 
 - [Pandas Crash Course - Intellipaat](https://youtu.be/vtgDGrUiUKk?si=_Lc5_23VDIG7T9Nk)  
   **OR**  
-- [CampusX playlist](https://youtube.com/playlist?list=PLKnIA16_RmvbR85fgbfVRKOiMokUKVupy&si=IDKKXBYSNMP7WXYn)
+- [CampusX playlist](https://youtube.com/playlist?list=PLKnIA16_RmvbR85fgbfVRKOiMokUKVupy&si=IDKKXBYSNMP7WXYn) <br/>
+  **OR**  
+- [Brocode](https://youtu.be/VXtjG_GzO7Q?si=ZXORMIdy36kgDE2o) <br/>
   **OR**  
 - [Pandas docs](https://pandas.pydata.org/docs/user_guide/10min.html#min)
 
@@ -57,7 +59,7 @@ For each topic I have given a few resources you can go through each and study fr
 
 - [FreeCodeCamp](https://youtu.be/3Xc3CA655Y4?si=EEZqzNfYGgrDT76e)  
   **OR**  
-- [Intellipaat](https://youtu.be/xXibS9832FM?si=Ogz2nCvLuZdr9Pa7)
+- [Intellipaat](https://youtu.be/xXibS9832FM?si=Ogz2nCvLuZdr9Pa7) <br/>
   **OR**  
 - [BroCode](https://youtu.be/c9vhHUGdav0?si=xAnMdOEbNS5DCqhj)
 
@@ -73,8 +75,8 @@ For each topic I have given a few resources you can go through each and study fr
 
 ## 6. Exploratory Data Analysis (EDA)
 
-- [Mark Keith](https://youtube.com/playlist?list=PLe9UEU4oeAuV7RtCbL76hca5ELO_IELk4&si=jJVi3qHdhp5pNVsQ)
+- [Mark Keith](https://youtube.com/playlist?list=PLe9UEU4oeAuV7RtCbL76hca5ELO_IELk4&si=jJVi3qHdhp5pNVsQ) <br/>
   **OR**  
-- [Binary Study](https://youtu.be/4P4UxXK7WE8?si=PUT1kMqVp-kCX59u)
+- [Binary Study](https://youtu.be/4P4UxXK7WE8?si=PUT1kMqVp-kCX59u) <br/>
   **OR**  
 - [Data Science with Onur](https://youtu.be/hv-GFdGlKTw?si=08piadnLND-CJLnb)
