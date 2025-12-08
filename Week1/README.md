@@ -80,3 +80,11 @@ For each topic I have given a few resources you can go through each and study fr
 - [Binary Study](https://youtu.be/4P4UxXK7WE8?si=PUT1kMqVp-kCX59u) <br/>
   **OR**  
 - [Data Science with Onur](https://youtu.be/hv-GFdGlKTw?si=08piadnLND-CJLnb)
+
+## 7. Evaluation Metrics for AIML
+
+- [NeptuneAi - documentation](https://neptune.ai/blog/performance-metrics-in-machine-learning-complete-guide)<br/>
+  **OR**  
+- [Analytics Vidhya](https://youtu.be/lt1YxJ_8Jzs?si=tVx4Wpzj6QTe3Zyj) <br/>
+  **OR**  
+- [Krish Naik](https://youtu.be/5vqk6HnITko?si=XelJJvbby1jpaoyS)
