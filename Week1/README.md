@@ -9,7 +9,7 @@ For each topic I have given a few resources you can go through each and study fr
 
 - [FreeCodeCamp](https://youtu.be/eWRfhZUzrAc?si=lB553dsE7vdpNqoT)  
   **OR**  
-- [Brocode](https://youtu.be/ix9cRaBkVe0?si=346DZt7adkIRHMAD)  - No need to watch the GUI part for AIML
+- [Brocode](https://youtu.be/ix9cRaBkVe0?si=346DZt7adkIRHMAD)  - No need to watch the GUI part for AIML <br />
   **OR**  
 - [CodeWithHarry](https://youtu.be/UrsmFxEIp5k?si=e9AMgQNxpiUHqvGl)  
   **OR**  
