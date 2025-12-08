@@ -5,13 +5,15 @@ In this week, we will be starting with the **basics of Python and Machine Learni
 For each topic I have given a few resources you can go through each and study from one that fits you.
 ---
 
-## 1. Python for ML
+## 1. Python basics 
 
 - [FreeCodeCamp](https://youtu.be/eWRfhZUzrAc?si=lB553dsE7vdpNqoT)  
   **OR**  
-- [Brocode](https://youtu.be/ix9cRaBkVe0?si=346DZt7adkIRHMAD)  
+- [Brocode](https://youtu.be/ix9cRaBkVe0?si=346DZt7adkIRHMAD)  - No need to watch the GUI part for AIML
   **OR**  
 - [CodeWithHarry](https://youtu.be/UrsmFxEIp5k?si=e9AMgQNxpiUHqvGl)  
+  **OR**  
+- [Programming with Mosh](https://youtu.be/K5KVEU3aaeQ?si=lXJGuNQZFi6rVcrD)  
   **OR**  
 - [Official Python Tutorial (Documentation)](https://docs.python.org/3/tutorial/) *(if you like to read)*
 
@@ -21,6 +23,8 @@ For each topic I have given a few resources you can go through each and study fr
 ## 2. Introduction to Machine Learning
 
 - [What is Machine Learning?](https://youtu.be/znF2U_3Z210?si=Kkee7ZJe4MyDfm1-)
+
+- [Machine Learning vs Deep Learning](https://youtu.be/q6kJ71tEYqM?si=vKI8Rgtv4NqBtFy_)
 
 - [Supervised vs Unsupervised Learning](https://youtu.be/W01tIRP_Rqs?si=CTa9492Hp8yW6gQJ)
 
@@ -44,6 +48,8 @@ For each topic I have given a few resources you can go through each and study fr
 - [Pandas Crash Course - Intellipaat](https://youtu.be/vtgDGrUiUKk?si=_Lc5_23VDIG7T9Nk)  
   **OR**  
 - [CampusX playlist](https://youtube.com/playlist?list=PLKnIA16_RmvbR85fgbfVRKOiMokUKVupy&si=IDKKXBYSNMP7WXYn)
+  **OR**  
+- [Pandas docs](https://pandas.pydata.org/docs/user_guide/10min.html#min)
 
 ---
 
@@ -52,6 +58,8 @@ For each topic I have given a few resources you can go through each and study fr
 - [FreeCodeCamp](https://youtu.be/3Xc3CA655Y4?si=EEZqzNfYGgrDT76e)  
   **OR**  
 - [Intellipaat](https://youtu.be/xXibS9832FM?si=Ogz2nCvLuZdr9Pa7)
+  **OR**  
+- [BroCode](https://youtu.be/c9vhHUGdav0?si=xAnMdOEbNS5DCqhj)
 
 ---
 
@@ -59,9 +67,9 @@ For each topic I have given a few resources you can go through each and study fr
 
 - [CampusX playlist](https://youtube.com/playlist?list=PLKnIA16_RmvbB1bFGjvS6a8T0mnqawejo&si=J1IkUw26JXqADjyV)  
   **OR**  
-- [Seaborn Tutorial – Derek Banas](https://youtu.be/6GUZXDef2U0?si=uzmvKfMeNfMypjVB)  
+- [Derek Banas](https://youtu.be/6GUZXDef2U0?si=uzmvKfMeNfMypjVB)  
   **OR**  
-- [Seaborn Tutorial – Intellipath](https://youtu.be/39cge_JhVjI?si=_6yrwDVbmqOPwRln)
+- [Intellipath](https://youtu.be/39cge_JhVjI?si=_6yrwDVbmqOPwRln)
 
 ## 6. Exploratory Data Analysis (EDA)
 
@@ -69,4 +77,4 @@ For each topic I have given a few resources you can go through each and study fr
   **OR**  
 - [Binary Study](https://youtu.be/4P4UxXK7WE8?si=PUT1kMqVp-kCX59u)
   **OR**  
-- [Seaborn Tutorial – Intellipath](https://youtu.be/39cge_JhVjI?si=_6yrwDVbmqOPwRln)
+- [Data Science with Onur](https://youtu.be/hv-GFdGlKTw?si=08piadnLND-CJLnb)
